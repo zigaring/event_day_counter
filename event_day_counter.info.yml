@@ -1,0 +1,7 @@
+name: Event Day Counter
+type: module
+description: Displays how many days are left for the event to start.
+core_version_requirement: ^8 || ^9
+package: Custom
+dependencies:
+  - drupal:block

@@ -1,0 +1,5 @@
+
+services:
+  event_day_counter.service:
+    class: Drupal\event_day_counter\EventDayCounter
+    arguments: []
